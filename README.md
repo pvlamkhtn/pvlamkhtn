@@ -39,21 +39,25 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
 ---
 
 ## 🌐 Social
-
 <p align="left">
-  <a href="https://github.com/pvlamkhtn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub Badge"/>
+  <!-- GitHub -->
+  <a href="https://github.com/pvlamkhtn" target="_blank" rel="nofollow" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/lampv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" alt="LinkedIn" style="margin-right:10px;" />
   </a>
-  <a href="mailto:pvlamkhtn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+
+  <!-- Email -->
+  <a href="mailto:pvlamkhtn@gmail.com" target="_blank" rel="nofollow" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email" style="margin-right:10px;" />
   </a>
-  <a href="https://pvlamkhtn.github.io/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+
+  <!-- Portfolio -->
+  <a href="https://pvlamkhtn.github.io" target="_blank" rel="nofollow" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/domain.png" width="32" height="32" alt="Website" style="margin-right:10px;" />
   </a>
 </p>
-
 
 ---
