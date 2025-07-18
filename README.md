@@ -1,27 +1,36 @@
-<h1 align="center">Hi 👋, My name is Lam Phan</h1>
+<h1 align="left">Hi 👋, My name is Lam Phan</h1>
+<h1>I am a Senior Software Engineer - Fullstack Developer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&width=435&lines=Ruby+on+Rails+Developer;JavaScript+%2F+React+Learner;Lifelong+Tech+Explorer" alt="Typing SVG" />
+<p align="left">
+  <b>Specialized in Ruby on Rails, ReactJS, and modern web technologies.</b><br>
+  Passionate about building scalable web applications and clean architecture.
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-- 💎 Ruby on Rails
-- ⚛️ ReactJS / JavaScript / HTML / CSS
-- 📦 PostgreSQL / Redis / Sidekiq
-- 🔍 Elasticsearch
-- 🔗 Hotwire / Stimulus / Turbo
+<p align="left">
+  <!-- Ruby & Rails -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40" style="background-color: white; padding: 2px; border-radius: 6px;" />
 
----
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-## 📈 GitHub Stats
+  <!-- JavaScript & React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pvlamkhtn&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvlamkhtn&theme=radical" />
+  <!-- PostgreSQL, MySQL, Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+
+  <!-- Databricks (sử dụng biểu tượng SVG tùy chỉnh vì chưa có trong Devicon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="100" height="30" style="vertical-align: middle;"/>
 </p>
+
 
 ---
 
