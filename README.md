@@ -1,11 +1,15 @@
 <h1 align="left">Hi 👋, My name is Lam Phan - Senior Software Engineer</h1>
+<p align="center">
+  <br>
+  <strong>Never stop improving 🚀</strong>
+</p>
 
 ## 👨‍💻 About Me
 
 I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript**, and **ReactJS**.
 
-- 💎 Passionate about clean code & system design  
-- 🧠 Always learning new tools like **Databricks**, **Python**  
+- I enjoy working with clean architecture, readable code, and meaningful products.
+- Always curious, always learning — I love exploring new ideas and tools.
 - 🌍 I'm based in Ho Chi Minh, Vietnam  
 - ✉️ You can contact me at [pvlamkhtn@gmail.com](mailto:pvlamkhtn@gmail.com)
 
@@ -45,7 +49,7 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow">
+  <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow" style="text-decoration: none;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
