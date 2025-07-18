@@ -10,8 +10,8 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
 
 - I enjoy working with clean architecture, readable code, and meaningful products.
 - Always curious, always learning — I love exploring new ideas and tools.
-- 🌍 I'm based in Ho Chi Minh, Vietnam  
-- ✉️ You can contact me at [pvlamkhtn@gmail.com](mailto:pvlamkhtn@gmail.com)
+- I'm based in Ho Chi Minh City, Vietnam 🇻🇳
+- You can contact me at [pvlamkhtn@gmail.com](mailto:pvlamkhtn@gmail.com)
 
 
 ---
@@ -48,6 +48,7 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
   <a href="https://github.com/pvlamkhtn" target="_blank" rel="nofollow" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" />
   </a>
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow" style="text-decoration: none;">
     <picture>
