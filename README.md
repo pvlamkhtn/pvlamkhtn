@@ -1,8 +1,4 @@
 <h1 align="left">Hi 👋, My name is Lam Phan - Senior Software Engineer</h1>
-<p align="center">
-  <br>
-  <strong>Never stop improving 🚀</strong>
-</p>
 
 ## 👨‍💻 About Me
 
@@ -12,7 +8,7 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
 - Always curious, always learning — I love exploring new ideas and tools.
 - I'm based in Ho Chi Minh City, Vietnam 🇻🇳
 - You can contact me at [pvlamkhtn@gmail.com](mailto:pvlamkhtn@gmail.com)
-
+- **Never stop improving 🚀**
 
 ---
 
@@ -44,11 +40,6 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
 
 ## 🌐 Social
 <p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/pvlamkhtn" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow" style="text-decoration: none;">
     <picture>
@@ -56,6 +47,14 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">
     </picture>
+  </a>
+
+  <a href="https://www.github.com/pvlamkhtn">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="visibility: visible; max-width: 100%;">
+    </picture></themed-picture>
   </a>
 
   <a href="https://pvlamkhtn.github.io" target="_blank" rel="nofollow" style="text-decoration: none;">
