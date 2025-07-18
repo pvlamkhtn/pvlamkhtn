@@ -50,7 +50,7 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
   <a href="mailto:pvlamkhtn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://pvlamkhtn.com" target="_blank">
+  <a href="https://pvlamkhtn.github.io/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
