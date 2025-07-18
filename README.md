@@ -1,10 +1,14 @@
-<h1 align="left">Hi 👋, My name is Lam Phan</h1>
-<h1>I am a Senior Software Engineer - Fullstack Developer</h1>
+<h1 align="left">Hi 👋, My name is Lam Phan - Senior Software Engineer</h1>
 
-<p align="left">
-  <b>Specialized in Ruby on Rails, ReactJS, and modern web technologies.</b><br>
-  Passionate about building scalable web applications and clean architecture.
-</p>
+## 👨‍💻 About Me
+
+I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript**, and **ReactJS**.
+
+- 💎 Passionate about clean code & system design  
+- 🧠 Always learning new tools like **Databricks**, **Python**  
+- 🌍 I'm based in Ho Chi Minh, Vietnam  
+- ✉️ You can contact me at [pvlamkhtn@gmail.com](mailto:pvlamkhtn@gmail.com)
+
 
 ---
 
@@ -34,18 +38,22 @@
 
 ---
 
-## 📫 Contact
+## 🌐 Social
 
-<p>
+<p align="left">
+  <a href="https://github.com/pvlamkhtn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub Badge"/>
+  </a>
   <a href="https://linkedin.com/in/lampv" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:pvlamkhtn@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://pvlamkhtn.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
+
 
 ---
