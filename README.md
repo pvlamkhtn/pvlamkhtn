@@ -45,18 +45,16 @@ I'm a Fullstack Developer with a strong focus on **Ruby on Rails**, **JavaScript
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" alt="LinkedIn" style="margin-right:10px;" />
+  <a href="https://www.linkedin.com/in/lampv" target="_blank" rel="nofollow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">
+    </picture>
   </a>
 
-  <!-- Email -->
-  <a href="mailto:pvlamkhtn@gmail.com" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email" style="margin-right:10px;" />
-  </a>
-
-  <!-- Portfolio -->
   <a href="https://pvlamkhtn.github.io" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/domain.png" width="32" height="32" alt="Website" style="margin-right:10px;" />
+    <img src="https://img.icons8.com/color/48/globe--v1.png" width="32" height="32" alt="Portfolio" style="margin-right: 10px;" />
   </a>
 </p>
 
